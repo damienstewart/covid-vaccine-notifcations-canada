@@ -1,5 +1,6 @@
-# covid-vaccine-notifcations-canada
- Send COVID-19 Vaccination Percentage Notifications via Python
+# COVID-19 Vaccination Milestone Notifications / Web Data Scraper
+
+Send COVID-19 Vaccination Percentage Notifications via Python
 
 This script scrapes Canadian COVID-19 vaccination data and logs it to a database. It sets benchmarks/milestones and sends an email notification when certain vaccination benchmarks are hit. Simply connect to a SQL database, set up a cron job and set it to run once every day.
 
